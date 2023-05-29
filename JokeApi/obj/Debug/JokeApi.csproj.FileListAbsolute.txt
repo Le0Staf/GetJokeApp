@@ -1,0 +1,14 @@
+C:\Users\lest0823\source\repos\JokeApi\JokeApi\obj\Debug\JokeApi.csproj.AssemblyReference.cache
+C:\Users\lest0823\source\repos\JokeApi\JokeApi\obj\Debug\JokeApi.csproj.SuggestedBindingRedirects.cache
+C:\Users\lest0823\source\repos\JokeApi\JokeApi\obj\Debug\JokeApi.Form1.resources
+C:\Users\lest0823\source\repos\JokeApi\JokeApi\obj\Debug\JokeApi.Properties.Resources.resources
+C:\Users\lest0823\source\repos\JokeApi\JokeApi\obj\Debug\JokeApi.csproj.GenerateResource.cache
+C:\Users\lest0823\source\repos\JokeApi\JokeApi\obj\Debug\JokeApi.csproj.CoreCompileInputs.cache
+C:\Users\lest0823\source\repos\JokeApi\JokeApi\bin\Debug\JokeApi.exe.config
+C:\Users\lest0823\source\repos\JokeApi\JokeApi\bin\Debug\JokeApi.exe
+C:\Users\lest0823\source\repos\JokeApi\JokeApi\bin\Debug\JokeApi.pdb
+C:\Users\lest0823\source\repos\JokeApi\JokeApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lest0823\source\repos\JokeApi\JokeApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lest0823\source\repos\JokeApi\JokeApi\obj\Debug\JokeApi.csproj.CopyComplete
+C:\Users\lest0823\source\repos\JokeApi\JokeApi\obj\Debug\JokeApi.exe
+C:\Users\lest0823\source\repos\JokeApi\JokeApi\obj\Debug\JokeApi.pdb
